@@ -1,0 +1,82 @@
+.input_btn{
+    margin: 0px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 7px;
+    background-color: #C4B9CD;
+    color: white;
+    font-size: 30px;
+    margin-top: 54px;
+}
+
+
+.input_first, .input_last{
+    background-color:  #C4B9CD;
+    color: #9d83b3;
+    height: 58px;
+    width: 430px;
+    font-size: 15px;
+    opacity: 90%;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+.table_main_info_div{
+    display: flex;
+    margin: 0px auto;
+    justify-content: center;
+    color: #9d83b3;
+}
+
+.table_main_info{
+    width: 80px;
+    margin: 25px;
+    color: #9d83b3;
+}
+
+.table_sub_info{
+    margin: 20px;
+    color: #9d83b3;
+}
+
+.graph_iframe{
+    width: 1100px;
+}
+
+.graph_iframe_div{
+    display: flex;
+    justify-content: center;
+}
+
+.Flag{
+    width: 300px;
+    margin: 30px;
+}
+
+.Flag_div{
+    display: flex;
+    justify-content: center;
+}
+
+.search_result_div:nth-child(2){
+    order: -1;
+    margin-right: 10px;
+} 
+
+.search_result_div:nth-child(5){
+    margin-left: 10px;
+} 
+
+.div_inputOnly:nth-child(1){
+    display: flex;
+}
+
+/* .option_input{
+    margin-left: 115px;
+} */
+
+.div_select{
+    display: flex;
+    justify-content: center;
+}

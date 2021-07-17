@@ -1,0 +1,29 @@
+.div_input2{
+    border: 0;
+    padding: 0; 
+    margin-left: 40%;
+    margin-top: 40px;
+}
+
+.input_btn2{
+    margin: 0px;
+    background-color: #C4B9CD;
+    color: white;
+    font-size: 30px;
+    margin-top: 50px;
+    padding-bottom: 2px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 14px;
+}
+
+.input_first2{
+    background-color:  #C4B9CD;
+    color: #9d83b3;
+    height: 58px;
+    width: 300px;
+    padding-top: 19px;
+    font-size: 15px;
+    opacity: 90%;
+    font-size: 25px;
+}

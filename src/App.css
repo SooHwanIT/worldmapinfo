@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Jua&display=swap');
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.display{
+    font-family: 'Jua', sans-serif; /* temp */
+    background: linear-gradient(
+        to bottom,
+        rgba(225, 225, 225, 0) 10%,
+        rgba(225, 225, 225, 0.2) 25%,
+        rgba(225, 225, 225, 0.4) 40%,
+        rgba(225, 225, 225, 0.6) 50%,
+        rgba(225, 225, 225, 0.8) 75%,
+        rgba(225, 225, 225, 2) 100%
+    ),
+    url('https://media.istockphoto.com/photos/business-office-or-store-shop-is-closedbankrupt-business-due-to-the-picture-id1216449625?b=1&k=6&m=1216449625&s=170667a&w=0&h=_ZgdEli_mmVPNCcE0gizFWnpliv7ueLJbRgeSC52qow=');
+    /* background-image: url('https://media.istockphoto.com/photos/business-office-or-store-shop-is-closedbankrupt-business-due-to-the-picture-id1216449625?b=1&k=6&m=1216449625&s=170667a&w=0&h=_ZgdEli_mmVPNCcE0gizFWnpliv7ueLJbRgeSC52qow='); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 70%;
+}
+
+.country_input{
+    text-align: center;
+}
+
+.country_input input, .input_btn{
+    margin: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: white;
+    border: 1px solid #AAA;
+}
+
+.div_inputOnly, .div_info{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    margin-top: 10px;
+}
+
+.div_inputOnly{
+    align-items: center;
+}
+
+.div_input{
+    border: 0;
+    padding: 0; 
+}
+
+
+.div_input button{
+    height: 100%;
+}
+
+table{
+    border: none;
+    padding-bottom: 0px;
+    border-spacing: 0;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+.table_sub_info td{
+    border: 1px solid #9d83b3;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+}
+
+.table_main_info td{
+    text-align: center;
+    border: 1px solid #9d83b3;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.table_main_info{
+    margin-bottom: 40px;
+    opacity: 90%;
+}
+
+.table_sub_info{
+    opacity: 90%;
+}

@@ -1,0 +1,15 @@
+.main{
+    flex-direction:column;
+    align-content :center;
+}
+
+.world_map{
+    /* float: right;
+    margin: ; */
+}
+table{
+    border: 1px solid black;
+}
+td{
+    border-bottom: 1px solid black;
+}

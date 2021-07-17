@@ -1,0 +1,12 @@
+.header{
+    background: linear-gradient(to left, #F7CAC9, #92A8D1);
+    border-bottom: 5px solid rgb(190, 190, 190);
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}

@@ -1,0 +1,15 @@
+.compaaaare{
+    /* background-image: url('https://media.istockphoto.com/photos/business-office-or-store-shop-is-closedbankrupt-business-due-to-the-picture-id1216449625?b=1&k=6&m=1216449625&s=170667a&w=0&h=_ZgdEli_mmVPNCcE0gizFWnpliv7ueLJbRgeSC52qow='); */
+    background: linear-gradient(
+        to bottom,
+        rgba(225, 225, 225, 0) 10%,
+        rgba(225, 225, 225, 0.2) 25%,
+        rgba(225, 225, 225, 0.4) 40%,
+        rgba(225, 225, 225, 0.6) 50%,
+        rgba(225, 225, 225, 0.8) 75%,
+        rgba(225, 225, 225, 2) 100%
+    ),
+    url('https://media.istockphoto.com/photos/business-office-or-store-shop-is-closedbankrupt-business-due-to-the-picture-id1216449625?b=1&k=6&m=1216449625&s=170667a&w=0&h=_ZgdEli_mmVPNCcE0gizFWnpliv7ueLJbRgeSC52qow=');
+    
+    background-size: cover;
+}

@@ -1,0 +1,18 @@
+
+.footer{
+    text-align: center;
+    background: linear-gradient(to left, #F7CAC9, #92A8D1);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border-top: 5px solid rgb(190, 190, 190);
+    width: 100%;
+    margin-top: 120px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+}
